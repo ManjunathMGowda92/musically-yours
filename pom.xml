@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.musically-yours</groupId>
 	<artifactId>musically-yours</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>musically-yours</name>
 	<description>MusicallyYours - play with your loved ones!</description>
 
